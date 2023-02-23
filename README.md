@@ -1,4 +1,4 @@
-# Data-Science-.
-Here's my repo for all my practices.
-I want this to serve as my portfolio.
-I also want to use it to track my progress.
+## Data-Science ##
+# This Repository will serve as my portfolio for every of my data science related projects #
+# For easy access, I have grouped each report into a folder that contains the ipynb file and its dataset. #
+
