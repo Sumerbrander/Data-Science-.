@@ -3,7 +3,7 @@
 For easy access, I have grouped each report into a folder that contains the ipynb file and its dataset.
 
 # Dr Semmelweiss and  [the discovery of handwashing.](https://github.com/Sumerbrander/Data-Science-./tree/main/Dr%20Semmelweiss)
-![Dr Semmelweiss](Data-Science-./Dr Semmelweiss/ignaz_semmelweis_1860.jpeg)
+[Dr Semmelweiss](Data-Science-./Dr Semmelweiss/ignaz_semmelweis_1860.jpeg)
 Dr. Ignaz Semmelweis, a Hungarian physician born in 1818 and active at the Vienna General Hospital. 
 He identified the cause of childbed fever that caused the death of 10% of women who gave birth at the Vienna General Hospital.
 He discovered that it was the contaminated hands of the doctors delivering the babies.
