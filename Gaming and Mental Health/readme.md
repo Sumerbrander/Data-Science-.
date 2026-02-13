@@ -11,6 +11,7 @@ This project analyzes the relationship between gaming habits and mental health o
 4. What physical health issues are associated with excessive gaming?
 
 Author: Oladele Steve
+
 Date: February 2026
 
 **Key Findings and Recommendations**
@@ -49,6 +50,7 @@ MMO and MOBA games tend to have higher average gaming hours
 Mobile games show varied patterns depending on game type
 
 **Recommendations**
+
 For Gamers:
 
 Monitor and limit daily gaming to under 4 hours
