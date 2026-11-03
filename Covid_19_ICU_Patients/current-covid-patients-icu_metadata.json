@@ -1,0 +1,40 @@
+{
+  "chart": {
+    "title": "Number of COVID-19 patients in intensive care (ICU)",
+    "subtitle": "",
+    "note": "For countries where the number of ICU patients is not reported, we display the closest metric (patients ventilated or in critical condition).",
+    "citation": "Official data collated by Our World in Data (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/current-covid-patients-icu?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Canada",
+      "United Kingdom",
+      "United States",
+      "Israel",
+      "France",
+      "Germany",
+      "Italy",
+      "Spain",
+      "Belgium",
+      "Netherlands"
+    ]
+  },
+  "columns": {
+    "Daily ICU occupancy": {
+      "titleShort": "Current number of COVID-19 patients in ICU",
+      "titleLong": "Current number of COVID-19 patients in ICU",
+      "descriptionShort": "Number of COVID-19 patients in ICU on a given day.",
+      "descriptionKey": "- For countries where the number of ICU patients is not reported, we display the closest metric (patients ventilated or in critical condition).\n- Hospital and ICU data are sourced from official providers and collated by Our World in Data, but no new datapoints have been added since 13 August 2024.\n- Gaps in more recent hospitalization trends may exist due to the cessation of regular updates after August 2024.",
+      "unit": "patients in ICU",
+      "timespan": "",
+      "type": "Integer",
+      "owidVariableId": 984240,
+      "shortName": "daily_occupancy_icu",
+      "lastUpdated": "2024-08-13",
+      "citationShort": "Official data collated by Our World in Data (2024) – processed by Our World in Data",
+      "citationLong": "Official data collated by Our World in Data (2024) – processed by Our World in Data. “Current number of COVID-19 patients in ICU” [dataset]. Official data collated by Our World in Data, “COVID-19, hospitalisations” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/984240.metadata.json"
+    }
+  },
+  "dateDownloaded": "2026-11-03",
+  "activeFilters": {}
+}
